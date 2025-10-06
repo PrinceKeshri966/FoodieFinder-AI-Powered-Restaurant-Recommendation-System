@@ -1,0 +1,1 @@
+openapi_key = "set-your-own-secret-key"
